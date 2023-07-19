@@ -1,6 +1,6 @@
 {
-    "name": "test",
-    "short_name": "test",
+    "name": "ces_app",
+    "short_name": "ces_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
