@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "27c65ebc1044de5f59c60440c3b1ea71",
-"assets/AssetManifest.json": "eedaca156bd5c14422ffaf4ab2510ba3",
+const RESOURCES = {"assets/AssetManifest.bin": "e82ca40ca3b670191e31d14d8edffbf7",
+"assets/AssetManifest.json": "ed2c050561c0736fabafcda3ee1bc5c0",
 "assets/assets/icons/bibimbap.png": "00957f2d5d5736c8fe1afcd2c742c756",
 "assets/assets/icons/diet.png": "7cbf6d7704484301533a703be36356fd",
 "assets/assets/icons/fast-food.png": "ae79ee1914ad738d5871d9bd8b0c03ae",
@@ -13,6 +13,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "27c65ebc1044de5f59c60440c3b1ea71
 "assets/assets/icons/ramen.png": "f5d4b84c15def3d8a5c769b582fdf13a",
 "assets/assets/icons/snack.png": "ea41be19b648c73ec9f919d51f0c3d45",
 "assets/assets/icons/theme_icon.png": "1fd037bd5f22b74724961bda4cb85c51",
+"assets/assets/images/banner1.jpg": "f3a562d2e0b5def75e8a5aac6b225315",
+"assets/assets/images/banner2.jpg": "290105e4fb9edd98f624286c88a78202",
+"assets/assets/images/banner3.jpg": "e31a4fd4dc52f4cb828a8af9fc958df4",
 "assets/assets/images/logo-no-bg.png": "9907c0c9ad67cb43a245c3cc2bd99234",
 "assets/assets/images/logo.png": "366a0e028d7c970daf1d3039c9325cb3",
 "assets/assets/images/no_internet.png": "bb8d725c9d0b01de82027c053d341204",
@@ -21,8 +24,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "27c65ebc1044de5f59c60440c3b1ea71
 "assets/assets/locales/en_US.json": "c4d53f600ae9366b265373f00c2179e4",
 "assets/assets/locales/vi_VN.Json": "6a6b7bc7ca36a404aa4175c5d9f032ab",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "30af8214896cab55b8c1d8e1703e1db9",
-"assets/NOTICES": "738475bc567f5b08e9c8b94f5bfd8cea",
+"assets/fonts/MaterialIcons-Regular.otf": "227dd0f4d01c8c6cc9fbebd6f9bd331d",
+"assets/NOTICES": "3e7b6afdb239aea2c940ba0f0dafb9cb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/packages/easy_stepper/assets/loading_black.json": "d412b17ec906f03090996d68abab4eca",
 "assets/packages/easy_stepper/assets/loading_white.json": "92623d18291ed579cf8bfe3f5fc74213",
@@ -40,9 +43,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "27c65ebc1044de5f59c60440c3b1ea71
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9afcf84831a0dcbc754dbb2ce595ed7e",
-"/": "9afcf84831a0dcbc754dbb2ce595ed7e",
-"main.dart.js": "bea915d92cb19089b7f440dab2d9200c",
+"index.html": "839d8c86bc264cd14064ae8b4056a0d5",
+"/": "839d8c86bc264cd14064ae8b4056a0d5",
+"main.dart.js": "7d0085172b3328b6fe192f72348f649d",
 "manifest.json": "fea2702702a0ba55e981d49111eba17a",
 "version.json": "4ef50b8b4b1a4b88965c6b8c54813c6a"};
 // The application shell files that are downloaded before a service worker can
